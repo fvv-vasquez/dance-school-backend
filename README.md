@@ -108,3 +108,9 @@ Sample response:
 ```
 
 Response code: `200 OK`
+
+## Demo
+
+You can see a demo on YouTube:
+
+[![Click here to see on YouTube](http://img.youtube.com/vi/sFmCPGdnBnM/0.jpg)](http://www.youtube.com/watch?v=sFmCPGdnBnM "")
