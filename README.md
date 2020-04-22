@@ -21,13 +21,15 @@ These guidelines aims to instruct on how to have the project up and running on y
     - **SSH**
     ```
     cd "directory of your choice"
-    git clone **link**
+    git clone git@github.com:fvv-vasquez/dance-school-backend.git
+    cd dance-school-backend
     ```
        
-    - **HTML**
+    - or **HTML**
     ```
     cd "directory of your choice"
-    git clone **link**
+    git clone https://github.com/fvv-vasquez/dance-school-backend.git
+    cd dance-school-backend
     ```
    
 1. Download the project website in [here](https://github.com/fvv-vasquez/study-website-danceschool.git)
